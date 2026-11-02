@@ -85,17 +85,17 @@ The final model should be selected based on the evaluation results and the proje
 - Seaborn
 - Scikit-learn
 - XGBoost
-- Jupyter Notebook
+
 
 ## How to Run the Project
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/telecom-customer-churn-prediction.git
+git clone https://github.com/shahbaz-khan-ds/telecom-customer-churn-prediction.git
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
+
 
 ### 2. Navigate to the project directory
 
